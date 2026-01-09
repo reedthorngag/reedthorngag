@@ -4,7 +4,7 @@
 
 ### Profile Summary
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=reedthorngag&show_icons=true&theme=synthwave)
+![GitHub Stats](https://github-readme-stats.zcy.dev/api/?username=reedthorngag&show_icons=true&theme=synthwave)
 
 ### Language Stats
 
